@@ -11,5 +11,10 @@ body{
 }
 
 h1, h2, h3, h4, h5, a, p {
+}
 
+.name_and_countrie {
+	width: 100%;
+	margin: auto;
+	text-align: center;
 }
